@@ -57,4 +57,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 > LDBWS-Client gets all of its realtime data from National Rail's [Live Departure Boards Web Service](http://lite.realtime.nationalrail.co.uk/openldbws/)
-<img src="images/NRE_Powered_logo.png" width="300" height="auto">
+<img src="https://raw.githubusercontent.com/jackdevey/Boards/main/images/NRE_Powered_logo.png" width="300" height="auto">
