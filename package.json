@@ -1,0 +1,15 @@
+{
+  "name": "ldbws-client",
+  "version": "1.0.0",
+  "description": "Wrapper library for the Live Departure Boards Web Service (LDBWS / OpenLDBWS)",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "author": "Jack Devey",
+  "dependencies": {
+    "soap": "^0.43.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
