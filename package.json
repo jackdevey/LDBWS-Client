@@ -1,10 +1,18 @@
 {
   "name": "ldbws-client",
-  "version": "1.0.0",
-  "description": "Wrapper library for the Live Departure Boards Web Service (LDBWS / OpenLDBWS)",
+  "version": "1.0.3",
+  "description": "Client library for the Live Departure Boards Web Service (LDBWS / OpenLDBWS)",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "author": "Jack Devey",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jackdevey/ldbws-client.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jackdevey/ldbws-client/issues"
+  },
+  "homepage": "https://github.com/jackdevey/ldbws-client",
   "dependencies": {
     "soap": "^0.43.0"
   },

@@ -1,7 +1,7 @@
 import { Client, createClientAsync } from "soap";
 import "./types";
 
-export default class {
+export class LDBWSClient {
 
     private url: string = "https://lite.realtime.nationalrail.co.uk/OpenLDBWS/wsdl.aspx"
     private client: Client|null = null;

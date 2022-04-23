@@ -1,8 +1,8 @@
-import Api from './index';
+import { LDBWSClient } from './index';
 
 let task = async () => {
-    let api = new Api("aa2aee28-abae-4a5c-9733-a188503aebd1");
-    
+    let api = new LDBWSClient("aa2aee28-abae-4a5c-9733-a188503aebd1");
+
     let board = await api.GetDepartureBoard("BHM", 10);
     console.log(board);
     // board = await api.GetDepBoardWithDetails("BHM", 10);
