@@ -5,6 +5,7 @@
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "author": "Jack Devey",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/jackdevey/ldbws-client.git"
