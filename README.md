@@ -1,4 +1,6 @@
 # 🚅 LDBWS-Client
+![npm](https://img.shields.io/npm/v/ldbws-client) ![license](https://img.shields.io/npm/l/ldbws-client) ![downloads](https://img.shields.io/npm/dt/ldbws-client)
+
 A TypeScript client library for the [National Rail Live Departure Boards Web Service (LDBWS / OpenLDBWS)](http://lite.realtime.nationalrail.co.uk/openldbws/)
 
 ## What is LDBWS / OpenLDBWS?
